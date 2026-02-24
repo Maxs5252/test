@@ -36,13 +36,9 @@
 
 ---
 
-| games | price |
-
-|---|---|
-
-| cs2 | free |
-
-| gta | 20$ |
-
+|Game | price |
+|-----|-------|
+|CS2 | free |
+|gta|20$|
 
 
